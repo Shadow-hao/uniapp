@@ -1,0 +1,11 @@
+/*  flex布局 */
+	.u-f,.u-f-a-c,.u-f-j-c{
+		display: flex;
+	}
+	.u-f-a-c,.u-f-j-c{
+		align-items: center;
+	}
+	.u-f-j-c{
+		justify-content: center;
+	}
+	

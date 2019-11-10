@@ -1,0 +1,25 @@
+{
+  "scrollIndicator": "none",
+  "titleNView": {
+    "autoBackButton": false,
+    "searchInput": {
+      "align": "center",
+      "backgroundColor": "#F7F7F7",
+      "borderRadius": "4px",
+      "autoFocus": true,
+      "placeholder": "请输入搜索内容",
+      "placeholderColor": "#CCCCCC",
+      "disabled": false
+    },
+    "buttons": [
+      {
+        "color": "#000000",
+        "colorPressed": "#BBBBBB",
+        "float": "right",
+        "fontSize": "16px",
+        "text": "取消"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

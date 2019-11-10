@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"s-title.",[1],"data-v-e9b81400{ position: absolute; left: 0; right: 0; }\n",],undefined,{path:"./pages/add-input/add-input.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/add-input/add-input.wxml') } }));
